@@ -111,13 +111,4 @@ Contributions are welcome!
 
 This project is licensed under the **MIT License**.
 
----
 
-✨ Built with love using **Django** 💻
-
-```
-
----
-
-Do you want me to also add **GitHub badges (Django version, license, stars, forks, etc.)** at the top so it looks more professional on your repo?
-```
